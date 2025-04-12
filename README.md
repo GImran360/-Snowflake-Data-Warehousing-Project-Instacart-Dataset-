@@ -21,6 +21,9 @@ FIELD_OPTIONALLY_ENCLOSED_BY='"';
 # 🏗️ Raw Data Tables (Staging Area)
 ## We load the following CSVs from S3 into Snowflake raw tables:
 
+![image](https://github.com/user-attachments/assets/2ff1d081-96fb-40ce-ab4a-4d85dc17e694)
+
+
 * Aisles
 
 * Departments
